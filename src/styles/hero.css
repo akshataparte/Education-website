@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    background-color: #002d62;
+    height: 70vh;
+    margin-bottom: 40px;
+}
+
+.hero-container{
+    display: flex;
+   width: 80%;
+   margin: auto;
+
+}
+
+.hero-text{
+    color:#fff;
+    text-align: start;
+    margin: 40px 0;
+}
+
+.hero-text h1{
+    font-size: 3rem;
+    margin-bottom: 5px;
+}
+
+.hero-text h2{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.hero-text p{
+  font-weight: bold;
+    padding: 10px 5px;
+    width: 80%;
+    border-radius: 11px;
+    font-size: 18px;
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 50px 15px #48abe0;
+    margin-bottom: 15px;
+}
+
+.hero-image{
+    height: 510px;
+}
+
+.btn-google-play{
+    padding: 10px;
+}
+
+.review{
+    background-color: #000;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+.hero-btn{
+    display: flex;
+    gap:35px;
+}
+
+
+.btn-google-play,
+.btn-store{
+    border: 1px solid #fff;
+    background-color: #000;
+    display: flex;
+    border-radius: 9px;
+    padding: 5px 15px;
+}
+
+.btn-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-sm{
+    font-size: 10px;
+}

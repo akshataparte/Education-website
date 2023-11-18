@@ -1,0 +1,22 @@
+
+
+.footer{
+    padding: 15px;
+    background-color: #002d62;
+    display: flex;
+    color: #fff;
+    justify-content: space-around;
+}
+
+.footer-text{
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer-list{
+    display: flex;
+    list-style: none;
+    gap:20px;
+
+}
+

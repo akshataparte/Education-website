@@ -1,0 +1,16 @@
+
+
+.difference{
+    background-color: #B9D9EB;
+    height: 250px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+p{
+    font-size: 4rem;
+    color:#002d62;
+}
